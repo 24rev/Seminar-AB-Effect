@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="107.21439mm"
+   height="64.961426mm"
+   viewBox="0 0 107.21439 64.961426"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-8" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-53.22621,-18.038576)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       d="m 160.1825,40.000001 v 20"
+       id="path1" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       id="path3"
+       cx="95.182495"
+       cy="65"
+       rx="2.4999998"
+       ry="5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       id="path3-9"
+       d="m 135.1825,60 a 2.4999998,5 0 0 1 2.49999,5 2.4999998,5 0 0 1 -2.49999,5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       d="m 70.182494,50.000001 14.999999,15"
+       id="path8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       d="m 145.18249,65.000001 15.00001,-15 -15,-15"
+       id="path11" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       d="M 95.182492,60.000001 H 135.1825"
+       id="path13" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       d="m 95.182492,70.000001 v 0 H 135.1825"
+       id="path16" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       d="m 85.182493,65.000001 v 0 h 12.500002"
+       id="path17" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       d="m 137.6825,65.000001 h 7.49999"
+       id="path18" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       id="path3-93"
+       cx="95.182495"
+       cy="35"
+       rx="2.4999998"
+       ry="5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       id="path3-9-6"
+       d="m 135.1825,30 a 2.4999998,5 0 0 1 2.49999,5 2.4999998,5 0 0 1 -2.49999,5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       d="M 95.182491,30.000001 H 135.1825"
+       id="path13-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       d="m 95.182491,40.000001 v 0 H 135.1825"
+       id="path16-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       d="m 85.182492,35.000001 v 0 h 12.500002"
+       id="path17-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       d="m 137.6825,35.000001 h 7.49999"
+       id="path18-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       d="m 55.182493,50.000001 h 15.000001 l 14.999999,-15"
+       id="path19" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1"
+       d="m 110.18249,30.000001 v -9.999998 h 10"
+       id="path25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1"
+       d="m 110.18249,70.000001 v 10 h 10"
+       id="path26" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.18249,77.000001 v 6"
+       id="path27" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1"
+       d="m 121.18249,78.000004 v 4"
+       id="path28" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1"
+       d="m 122.18249,79.000001 v 2"
+       id="path29" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-4)"
+       d="M 55.182493,45.000001 H 65.182494"
+       id="path36-8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:C059;-inkscape-font-specification:C059;writing-mode:lr-tb;direction:ltr;fill:#1570de;fill-opacity:1;stroke:#1570de;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="120.89204"
+       y="21.673601"
+       id="text38"><tspan
+         id="tspan38"
+         style="font-size:4.93889px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
+         x="120.89204"
+         y="21.673601">U(t)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:C059;-inkscape-font-specification:C059;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0"
+       x="53.152122"
+       y="33.639969"
+       id="text4"><tspan
+         id="tspan4"
+         style="stroke-width:0"
+         x="53.152122"
+         y="33.639969">Electron-</tspan><tspan
+         style="stroke-width:0"
+         x="53.152122"
+         y="39.813595"
+         id="tspan5">wave</tspan></text>
+  </g>
+</svg>

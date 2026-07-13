@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="82.748009mm"
+   height="124.13997mm"
+   viewBox="0 0 82.748009 124.13997"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path11" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path11-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path11-3-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-5-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path11-3-8-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path11-3-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-5-5-6-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path11-3-8-4-3-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-5-7-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path11-3-8-7-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-1-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path11-3-3-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path11-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path11-7" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-53.879997,-71.360038)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-opacity:1"
+       id="path1"
+       d="m 105,-70 a 10,9.999999 0 0 1 -5,8.660253 10,9.999999 0 0 1 -10,0 A 10,9.999999 0 0 1 85,-70"
+       transform="rotate(90)" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:0.4, 0.4;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1-5"
+       transform="matrix(0,1,1,0,0,0)"
+       cx="95"
+       cy="70"
+       rx="10"
+       ry="9.999999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-opacity:1"
+       id="path1-0"
+       d="m 105,110 a 10,9.999999 0 0 1 -5,8.66025 10,9.999999 0 0 1 -10,0 A 10,9.999999 0 0 1 85,110"
+       transform="matrix(0,1,1,0,0,0)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:0.4, 0.4;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1-5-3"
+       d="m 105,-110 a 10,9.999999 0 0 1 -5,8.66025 10,9.999999 0 0 1 -10,0 A 10,9.999999 0 0 1 85,-110"
+       transform="rotate(90)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 70.000002,105 H 110"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 70.000002,84.999996 H 110"
+       id="path3" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4"
+       cx="90.000008"
+       cy="159.99998"
+       r="30.000002" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5"
+       cx="90.000008"
+       cy="159.99998"
+       rx="10"
+       ry="9.999999" />
+    <circle
+       style="fill:none;stroke:#006dd3;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
+       id="path6"
+       cx="21.919821"
+       cy="182.26222"
+       r="15"
+       transform="rotate(-22.5)" />
+    <ellipse
+       style="fill:none;stroke:#006dd3;stroke-width:0.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
+       id="path7"
+       cx="21.919821"
+       cy="182.26222"
+       rx="20"
+       ry="19.999998"
+       transform="rotate(-22.5)" />
+    <circle
+       style="fill:none;stroke:#006dd3;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
+       id="path8"
+       cx="21.919821"
+       cy="182.26222"
+       r="25"
+       transform="rotate(-22.5)" />
+    <circle
+       style="fill:none;stroke:#006dd3;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle-9);marker-end:url(#ConcaveTriangle-9)"
+       id="path6-9"
+       cx="144.37851"
+       cy="113.3792"
+       r="15"
+       transform="rotate(22.5)" />
+    <ellipse
+       style="fill:none;stroke:#006dd3;stroke-width:0.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle-9);marker-end:url(#ConcaveTriangle-9)"
+       id="path7-4"
+       cx="144.37851"
+       cy="113.3792"
+       rx="20"
+       ry="19.999998"
+       transform="rotate(22.5)" />
+    <circle
+       style="fill:none;stroke:#006dd3;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle-9);marker-end:url(#ConcaveTriangle-9)"
+       id="path8-7"
+       cx="144.37851"
+       cy="113.3792"
+       r="25"
+       transform="rotate(22.5)" />
+    <path
+       style="fill:none;stroke:#099e00;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle)"
+       d="m 90.000002,124.56056 1e-6,9.00001 v 10 l -1e-6,8.99999"
+       id="path12" />
+    <path
+       style="fill:none;stroke:#099e00;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle-5)"
+       d="m 90.000002,195.5 v -9.00001 -10 V 167.5"
+       id="path12-1" />
+    <path
+       style="fill:none;stroke:#099e00;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle-5-5)"
+       d="m 54.541452,160 h 9.00001 10 8.99999"
+       id="path12-1-3" />
+    <path
+       style="fill:none;stroke:#099e00;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle-5-5-5)"
+       d="m 125.5,160 h -9.00001 -10 -8.99998"
+       id="path12-1-3-6" />
+    <path
+       style="fill:none;stroke:#099e00;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle-5-1)"
+       d="m 90.000002,195.5 v -9.00001 -10 V 167.5"
+       id="path12-1-4" />
+    <path
+       style="fill:none;stroke:#099e00;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle-5-5-7-4)"
+       d="m 114.799,135.20101 -6.36397,6.36397 -7.07107,7.07107 L 95.000002,155"
+       id="path12-0-0" />
+    <path
+       style="fill:none;stroke:#099e00;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle-5-1-7)"
+       d="m 65.201013,184.79899 6.363968,-6.36397 7.071067,-7.07107 L 85.000002,165"
+       id="path12-1-4-7" />
+    <path
+       style="fill:none;stroke:#099e00;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle-5-5-7-4)"
+       d="m 65.382989,135.38298 6.363968,6.36397 7.071068,7.07107 6.363954,6.36395"
+       id="path12-1-3-1-2" />
+    <path
+       style="fill:none;stroke:#099e00;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle-5-5-5-6-4)"
+       d="m 114.79899,184.69849 -6.36397,-6.36397 -7.07107,-7.07106 -6.363952,-6.36395"
+       id="path12-1-3-6-1-9" />
+    <ellipse
+       style="fill:none;stroke:#099e00;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path13"
+       cx="90.000008"
+       cy="159.99998"
+       rx="4"
+       ry="3.9999998" />
+    <ellipse
+       style="fill:#09a700;fill-opacity:1;stroke:#099e00;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path14"
+       cx="90.000008"
+       cy="159.99998"
+       rx="1"
+       ry="0.99999994" />
+    <ellipse
+       style="fill:none;fill-opacity:0;stroke:#006dd3;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path13-7"
+       cx="70"
+       cy="-95"
+       rx="4"
+       ry="3.9999998"
+       transform="scale(1,-1)" />
+    <ellipse
+       style="fill:none;fill-opacity:0;stroke:#006dd3;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path13-7-8"
+       cx="110"
+       cy="95"
+       rx="4"
+       ry="3.9999998" />
+    <ellipse
+       style="fill:#006dd3;fill-opacity:1;stroke:#006dd3;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path14-9-3"
+       cx="110"
+       cy="95"
+       rx="1"
+       ry="0.99999994" />
+    <path
+       style="fill:#006dd3;fill-opacity:1;stroke:#006dd3;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 67.179946,97.836774 5.649597,-5.664086"
+       id="path15" />
+    <path
+       style="fill:#006dd3;fill-opacity:1;stroke:#006dd3;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 67.656662,91.758277 5.161597,6.080278"
+       id="path16" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#088500;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
+       id="path17"
+       cx="70"
+       cy="95"
+       r="15" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#088500;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#ConcaveTriangle-6);marker-end:url(#ConcaveTriangle-6)"
+       id="path17-2"
+       cx="-110"
+       cy="95"
+       r="15"
+       transform="scale(-1,1)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:C059;-inkscape-font-specification:C059;writing-mode:lr-tb;direction:ltr;fill:#078500;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="97.939194"
+       y="119.00234"
+       id="text17"><tspan
+         style="fill:#078500;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="97.939194"
+         y="119.00234"
+         id="tspan1">Vector potential</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:C059;-inkscape-font-specification:C059;writing-mode:lr-tb;direction:ltr;fill:#006dd3;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="104.47083"
+       y="128.99741"
+       id="text18"><tspan
+         id="tspan18"
+         style="stroke-width:0.4"
+         x="104.47083"
+         y="128.99741">Magnetic field</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:C059;-inkscape-font-specification:C059;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="55"
+       y="125"
+       id="text19"><tspan
+         id="tspan19"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.4"
+         x="55"
+         y="125">Top view</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:C059;-inkscape-font-specification:C059;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="55"
+       y="75"
+       id="text20"><tspan
+         id="tspan20"
+         style="stroke-width:0.4"
+         x="55"
+         y="75">Side view</tspan></text>
+  </g>
+</svg>

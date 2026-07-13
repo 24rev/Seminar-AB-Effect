@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="111.97469mm"
+   height="55.354015mm"
+   viewBox="0 0 111.97469 55.354015"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker35"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path35" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-55.182502,-103.36003)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1"
+       d="M 55.182499,130 H 70.1825 l 14.999999,-15 h 59.999991 l 15.00001,15 -15.00001,15 H 85.182499 L 70.1825,130"
+       id="path14" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1"
+       id="path15"
+       cx="115.1825"
+       cy="130"
+       rx="9.999999"
+       ry="10" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365001;stroke-dasharray:none"
+       d="M 160.1825,140 V 120"
+       id="path20" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#45883f;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker35);marker-end:url(#marker35)"
+       id="path32"
+       cx="115.1825"
+       cy="130"
+       r="15" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#45883f;stroke-width:0.35;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
+       id="path33"
+       cx="115.1825"
+       cy="130"
+       rx="19.999998"
+       ry="20" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#45883f;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
+       id="path34"
+       cx="115.1825"
+       cy="130"
+       r="25" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="M 55.182499,125 H 65.1825"
+       id="path36" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#1570de;stroke-width:0.535715;stroke-dasharray:none;stroke-opacity:1"
+       id="path37"
+       cx="118.6825"
+       cy="133.5"
+       rx="2.2321436"
+       ry="2.2321434" />
+    <ellipse
+       style="fill:#1570de;fill-opacity:1;stroke:#1570de;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="path38"
+       cx="118.6825"
+       cy="133.5"
+       rx="0.44642803"
+       ry="0.44642639" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#1570de;stroke-width:0.535714;stroke-dasharray:none;stroke-opacity:1"
+       id="path37-6"
+       cx="111.6825"
+       cy="133.5"
+       rx="2.2321424"
+       ry="2.2321436" />
+    <ellipse
+       style="fill:#1570de;fill-opacity:1;stroke:#1570de;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="path38-2"
+       cx="111.6825"
+       cy="133.5"
+       rx="0.44642779"
+       ry="0.44642639" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#1570de;stroke-width:0.535715;stroke-dasharray:none;stroke-opacity:1"
+       id="path37-8"
+       cx="118.6825"
+       cy="126.5"
+       rx="2.2321436"
+       ry="2.2321434" />
+    <ellipse
+       style="fill:#1570de;fill-opacity:1;stroke:#1570de;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="path38-4"
+       cx="118.6825"
+       cy="126.5"
+       rx="0.44642803"
+       ry="0.44642639" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#1570de;stroke-width:0.535714;stroke-dasharray:none;stroke-opacity:1"
+       id="path37-6-7"
+       cx="111.6825"
+       cy="126.5"
+       rx="2.2321424"
+       ry="2.2321436" />
+    <ellipse
+       style="fill:#1570de;fill-opacity:1;stroke:#1570de;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="path38-2-2"
+       cx="111.6825"
+       cy="126.5"
+       rx="0.44642779"
+       ry="0.44642639" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:C059;-inkscape-font-specification:C059;writing-mode:lr-tb;direction:ltr;fill:#45883f;fill-opacity:1;stroke-width:0.4"
+       x="63"
+       y="107"
+       id="text1"><tspan
+         id="tspan1"
+         style="stroke-width:0.4"
+         x="63"
+         y="107">Vector potential</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:C059;-inkscape-font-specification:C059;writing-mode:lr-tb;direction:ltr;fill:#1570de;fill-opacity:0.988235;stroke-width:0.4"
+       x="135"
+       y="107"
+       id="text2"><tspan
+         id="tspan2"
+         style="fill:#1570de;fill-opacity:0.988235;stroke-width:0.4"
+         x="135"
+         y="107">Magnetic field</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:C059;-inkscape-font-specification:C059;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke-width:0.4"
+       x="130.68422"
+       y="158.63997"
+       id="text3"><tspan
+         id="tspan3"
+         style="stroke-width:0.4"
+         x="130.68422"
+         y="158.63997">Solenoid</tspan></text>
+    <path
+       style="fill:#1570de;fill-opacity:0.988235;stroke:#000000;stroke-width:0.4;stroke-opacity:1"
+       d="m 115,138 15,16"
+       id="path4" />
+  </g>
+</svg>

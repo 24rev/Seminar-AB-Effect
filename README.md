@@ -1,5 +1,7 @@
 # Aharonov–Bohm Effect: Experiments and Reusable Scientific Figures
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21343782.svg)](https://doi.org/10.5281/zenodo.21343782)
+
 Original scientific figures and bilingual seminar handouts about key experimental
 demonstrations of the **Aharonov–Bohm effect**. The material was created for my
 contribution to the *Key Experiments in Quantum Science* seminar at Heidelberg
@@ -56,12 +58,13 @@ respective source.
 Suggested attribution:
 
 > Figure by Matti Weber, from *Aharonov–Bohm Effect: Experiments and Reusable
-> Scientific Figures*, 2026, <https://github.com/24rev/Seminar-AB-Effect>.
+> Scientific Figures*, 2026, <https://doi.org/10.5281/zenodo.21343782>.
 
 Suggested repository citation:
 
 > Weber, Matti (2026). *Aharonov–Bohm Effect: Experiments and Reusable Scientific
-> Figures*. GitHub repository. <https://github.com/24rev/Seminar-AB-Effect>.
+> Figures* (Version 1.0.0) [Data set]. Zenodo.
+> <https://doi.org/10.5281/zenodo.21343782>.
 
 ## Repository Structure
 

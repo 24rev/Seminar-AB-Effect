@@ -6,6 +6,7 @@ type: dataset
 title: "Aharonov–Bohm Effect: Experiments and Reusable Scientific Figures"
 version: 1.0.0
 date-released: 2026-07-13
+doi: "10.5281/zenodo.21343782"
 authors:
   - family-names: Weber
     given-names: Matti

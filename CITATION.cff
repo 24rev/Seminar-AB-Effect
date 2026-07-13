@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: >-
+  If you use or adapt these figures, please cite this repository and identify
+  any changes you made.
+type: dataset
+title: "Aharonov–Bohm Effect: Experiments and Reusable Scientific Figures"
+version: 1.0.0
+date-released: 2026-07-13
+authors:
+  - family-names: Weber
+    given-names: Matti
+    affiliation: Heidelberg University
+abstract: >-
+  Original scientific figures and bilingual seminar handouts about experimental
+  demonstrations of the Aharonov–Bohm effect, including the Chambers experiment,
+  Tonomura electron holography experiment, electric and magnetic variants of the
+  effect, point-source holography, and toroidal magnets. Figures are supplied in
+  SVG, PDF, and PNG formats.
+keywords:
+  - Aharonov–Bohm effect
+  - quantum mechanics
+  - electron holography
+  - electron interferometry
+  - Chambers experiment
+  - Tonomura experiment
+  - scientific figures
+  - physics education
+license: CC-BY-4.0
+repository-code: "https://github.com/24rev/Seminar-AB-Effect"
+url: "https://github.com/24rev/Seminar-AB-Effect"
